@@ -1,7 +1,7 @@
 create table  suppliers
 (
 supplierid int primary key ,
-supname varchar(30),
+supname varchar(20),
 Contactname varchar(30),
 addres varchar(30),
 postal int
