@@ -1,0 +1,23 @@
+SQL Server : It is RDMS Product ---> Introduced by Microsoft ---> In the year of 1989.
+
+SQL Server is a back-end tool ---> To develop back end application.
+
+Developing back-end application is for storing data.
+
+SQL Server is platform dependent, so that it will be installed on windows OS only.
+
+SQL provide More GUI Facility to users to perform database(DB) operations like
+ 
+---> Create 
+---> Insert
+---> Delete
+---> Update
+---> Select 
+
+
+UI --- 1) CUI (Character User Interface) --- By using Query can perform operations.
+       2) GUI (Graphical User Interface) --- Without writing Query can perform Operations in database.
+
+GUI is time saving -- If lengthy queiries then better to go with GUI other than this everything will be same.
+
+Other than Oracel and other databases, SQL comes with more GUI Facilities.
